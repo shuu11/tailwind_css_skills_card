@@ -1,0 +1,88 @@
+//----------------------------------------------------------------------
+//  文字エンコーディング宣言
+//----------------------------------------------------------------------
+@charset "utf-8";
+
+//----------------------------------------------------------------------
+//  インポート宣言
+//----------------------------------------------------------------------
+
+//----------------------------------------------------------------------
+//  変数宣言
+//----------------------------------------------------------------------
+
+//----------------------------------------------------------------------
+//  SCSS記述
+//----------------------------------------------------------------------
+html {
+  //  font-sizeを10pxにする
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Noto Sans JP", MyYuGothicM, YuGothic, -apple-system, BlinkMacSystemFont,
+    "Hiragino kaku Gothic ProN", Meiryo, Verdana, arial, helvetica, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+header {
+  color: black;
+  background-color: white;
+}
+
+main {
+  color: black;
+  background-color: white;
+}
+
+article {
+  color: black;
+  background-color: white;
+}
+
+section {
+  color: black;
+  background-color: white;
+}
+
+nav {
+  color: black;
+  background-color: white;
+}
+
+aside {
+  color: black;
+  background-color: white;
+}
+
+footer {
+  color: black;
+  background-color: white;
+}
+
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-inline-start: 0px;
+  height: 100%;
+}
+
+li{
+  height: 100%;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/************************************************************************/
+/*  END OF FILE                                       									*/
+/************************************************************************/
